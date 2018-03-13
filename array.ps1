@@ -1,3 +1,10 @@
+﻿<# 
+	ARRAY.PS1
+	Nothing serious just horsing around...
+
+#>
+
+
 $a = "cat", "dog", "bull"
 $a.count
 $a.GetType()
